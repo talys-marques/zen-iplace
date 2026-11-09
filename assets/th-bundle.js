@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"ไปที่หน้าหลัก","cph-theme-error-boundary.message":"รอสักครู่แล้วลองอีกครั้งในภายหลัง","cph-theme-error-boundary.title":"มีบางอย่างผิดพลาด","cph-theme-shared.close-label":"ปิด"};export{e as default};

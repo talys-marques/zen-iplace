@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Pergi ke beranda","cph-theme-error-boundary.message":"Tunggu sebentar dan coba lagi nanti","cph-theme-error-boundary.title":"Terjadi kesalahan.","cph-theme-shared.close-label":"Tutup"};export{e as default};

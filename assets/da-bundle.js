@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Gå til startsiden","cph-theme-error-boundary.message":"Vent et øjeblik og prøv igen senere","cph-theme-error-boundary.title":"Noget gik galt.","cph-theme-shared.close-label":"Luk"};export{e as default};

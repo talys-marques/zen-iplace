@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Pojdite na domačo stran","cph-theme-error-boundary.message":"Dajte mu trenutek in poskusite znova kasneje","cph-theme-error-boundary.title":"Nekaj je šlo narobe.","cph-theme-shared.close-label":"Zapri"};export{e as default};

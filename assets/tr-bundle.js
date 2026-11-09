@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Ana sayfaya git","cph-theme-error-boundary.message":"Kısa bir süre bekleyip yeniden deneyin","cph-theme-error-boundary.title":"Bir sorun oluştu.","cph-theme-shared.close-label":"Kapat"};export{e as default};

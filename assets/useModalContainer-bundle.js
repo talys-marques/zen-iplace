@@ -1,0 +1,1 @@
+import{r}from"shared";import{M as e}from"ErrorScreen";function o(){const o=r.useContext(e);if(null===o)throw new Error("useModalContainer should be used inside a ModalContainerProvider");return o}export{o as u};

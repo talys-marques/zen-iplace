@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Gå till startsidan","cph-theme-error-boundary.message":"Vänta en stund och försök igen senare","cph-theme-error-boundary.title":"Något gick fel.","cph-theme-shared.close-label":"Stäng"};export{e as default};

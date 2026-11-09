@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"होमपेज पर जाएं","cph-theme-error-boundary.message":"थोड़ा ठहरकर पुनः प्रयास करें।","cph-theme-error-boundary.title":"कोई गड़बड़ी हुई है।","cph-theme-shared.close-label":"बंद करें"};export{e as default};

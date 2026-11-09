@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"前往主頁","cph-theme-error-boundary.message":"請稍候片刻，然後再試一次","cph-theme-error-boundary.title":"發生問題。","cph-theme-shared.close-label":"關閉"};export{e as default};

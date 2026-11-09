@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"cph-theme-error-boundary.go-to-homepage","cph-theme-error-boundary.message":"cph-theme-error-boundary.message","cph-theme-error-boundary.title":"cph-theme-error-boundary.title","cph-theme-shared.close-label":"cph-theme-shared.close-label"};export{e as default};

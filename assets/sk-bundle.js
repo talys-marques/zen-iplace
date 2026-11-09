@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Prejsť na domovskú stránku","cph-theme-error-boundary.message":"Chvíľu počkajte a skúste to znova neskôr","cph-theme-error-boundary.title":"Niekde sa stala chyba.","cph-theme-shared.close-label":"Zatvoriť"};export{e as default};

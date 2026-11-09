@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"انتقال إلى الصفحة الرئيسية","cph-theme-error-boundary.message":"انتظر لحظة وحاول مرة أخرى لاحقًا","cph-theme-error-boundary.title":"حدث خطأ.","cph-theme-shared.close-label":"إغلاق"};export{e as default};

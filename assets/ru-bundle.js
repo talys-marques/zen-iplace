@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Перейти на главную страницу","cph-theme-error-boundary.message":"Подождите немного и повторите попытку позже","cph-theme-error-boundary.title":"Возникла неполадка.","cph-theme-shared.close-label":"Закрыть"};export{e as default};

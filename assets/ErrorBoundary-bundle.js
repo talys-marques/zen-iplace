@@ -1,0 +1,1 @@
+import{r,j as e}from"shared";import{E as t}from"ErrorScreen";class s extends r.Component{constructor(r){super(r),this.state={error:null}}static getDerivedStateFromError(r){return{error:r}}render(){return this.state.error?this.props.fallback||e.jsx(t,{helpCenterPath:this.props.helpCenterPath}):this.props.children}}export{s as E};

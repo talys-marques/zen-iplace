@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Ugrás a kezdőlapra","cph-theme-error-boundary.message":"Várjon egy percet, majd próbálkozzon újra később","cph-theme-error-boundary.title":"Hiba történt.","cph-theme-shared.close-label":"Bezárás"};export{e as default};

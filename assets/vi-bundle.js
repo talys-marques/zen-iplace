@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Đi đến trang chủ","cph-theme-error-boundary.message":"Hãy chờ một lát và thử lại sau","cph-theme-error-boundary.title":"Đã xảy ra sự cố.","cph-theme-shared.close-label":"Đóng"};export{e as default};

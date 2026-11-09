@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Eikite į pagrindinį puslapį","cph-theme-error-boundary.message":"Skirkite šiek tiek laiko ir bandykite dar kartą vėliau","cph-theme-error-boundary.title":"Kažkas negerai.","cph-theme-shared.close-label":"Uždaryti"};export{e as default};

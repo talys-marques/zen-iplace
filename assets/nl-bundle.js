@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Naar de startpagina","cph-theme-error-boundary.message":"Probeer het na korte tijd opnieuw","cph-theme-error-boundary.title":"Er is iets fout gegaan.","cph-theme-shared.close-label":"Sluiten"};export{e as default};

@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Siirry kotisivulle","cph-theme-error-boundary.message":"Odota hetki ja yritä myöhemmin uudelleen","cph-theme-error-boundary.title":"Jotain meni pieleen.","cph-theme-shared.close-label":"Sulje"};export{e as default};

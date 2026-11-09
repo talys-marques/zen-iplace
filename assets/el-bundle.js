@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Μετάβαση στην αρχική σελίδα","cph-theme-error-boundary.message":"Περιμένετε λίγο και δοκιμάστε ξανά αργότερα","cph-theme-error-boundary.title":"Παρουσιάστηκε κάποιο πρόβλημα.","cph-theme-shared.close-label":"Κλείσιμο"};export{e as default};

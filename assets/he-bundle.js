@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"עבור לדף הבית","cph-theme-error-boundary.message":"המתן רגע ונסה שוב מאוחר יותר","cph-theme-error-boundary.title":"משהו השתבש.","cph-theme-shared.close-label":"סגור"};export{e as default};

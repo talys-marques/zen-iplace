@@ -1,0 +1,1 @@
+var e={"cph-theme-error-boundary.go-to-homepage":"Ir para a página inicial","cph-theme-error-boundary.message":"Aguarde um momento e tente novamente mais tarde","cph-theme-error-boundary.title":"Algo deu errado.","cph-theme-shared.close-label":"Fechar"};export{e as default};
